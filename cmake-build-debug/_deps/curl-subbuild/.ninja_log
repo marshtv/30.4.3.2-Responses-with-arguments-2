@@ -1,0 +1,21 @@
+# ninja log v5
+0	57	6957196791829943	curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	1b38b41d16f05d7b
+0	57	6957196791829943	F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.3.2 Responses with arguments-2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	1b38b41d16f05d7b
+58	2434	6957196815594625	curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	3c247de425ef73d5
+58	2434	6957196815594625	F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.3.2 Responses with arguments-2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	3c247de425ef73d5
+2434	2491	6957196816184040	curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	30826d5514cb621a
+2434	2491	6957196816184040	F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.3.2 Responses with arguments-2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	30826d5514cb621a
+2491	2550	6957196816743469	curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	d413c15389c008fd
+2491	2550	6957196816743469	F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.3.2 Responses with arguments-2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	d413c15389c008fd
+2550	2606	6957196817302862	curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	a0baf83af9d14b36
+2550	2606	6957196817302862	F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.3.2 Responses with arguments-2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	a0baf83af9d14b36
+2606	2661	6957196817852294	curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	b78e9e8022742322
+2606	2661	6957196817852294	F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.3.2 Responses with arguments-2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	b78e9e8022742322
+2661	2715	6957196818401731	curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	13dd497a52f5a5fa
+2661	2715	6957196818401731	F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.3.2 Responses with arguments-2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	13dd497a52f5a5fa
+2715	2771	6957196818961157	curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	88b63328b1444d50
+2715	2771	6957196818961157	F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.3.2 Responses with arguments-2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	88b63328b1444d50
+2771	2850	6957196819750337	CMakeFiles/curl-populate-complete	edc885a7125fb079
+2771	2850	6957196819750337	curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	edc885a7125fb079
+2771	2850	6957196819750337	F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.3.2 Responses with arguments-2/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete	edc885a7125fb079
+2771	2850	6957196819750337	F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.3.2 Responses with arguments-2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	edc885a7125fb079

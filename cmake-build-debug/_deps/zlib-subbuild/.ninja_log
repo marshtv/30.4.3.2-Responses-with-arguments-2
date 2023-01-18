@@ -1,0 +1,21 @@
+# ninja log v5
+1	59	6957196633674796	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	e9564348587f0d9a
+1	59	6957196633674796	F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.3.2 Responses with arguments-2/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	e9564348587f0d9a
+60	5372	6957196686795211	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	6fa69a17a5ee12e1
+60	5372	6957196686795211	F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.3.2 Responses with arguments-2/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	6fa69a17a5ee12e1
+5372	5523	0	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	9b7354b1d020724d
+5372	5523	0	F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.3.2 Responses with arguments-2/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	9b7354b1d020724d
+5524	5588	6957196688942996	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	b937f3a6085220bb
+5524	5588	6957196688942996	F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.3.2 Responses with arguments-2/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	b937f3a6085220bb
+5588	5649	6957196689572351	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	b191b23d2269e291
+5588	5649	6957196689572351	F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.3.2 Responses with arguments-2/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	b191b23d2269e291
+5649	5717	6957196690231654	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	5d6f47f32306a12a
+5649	5717	6957196690231654	F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.3.2 Responses with arguments-2/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	5d6f47f32306a12a
+5717	5778	6957196690871010	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	7b4903957b519b62
+5717	5778	6957196690871010	F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.3.2 Responses with arguments-2/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	7b4903957b519b62
+5779	5840	6957196691480380	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	6dfd49a91c7d7bb1
+5779	5840	6957196691480380	F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.3.2 Responses with arguments-2/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	6dfd49a91c7d7bb1
+5840	5917	6957196692249940	CMakeFiles/zlib-populate-complete	cb04eaf30903429a
+5840	5917	6957196692249940	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	cb04eaf30903429a
+5840	5917	6957196692249940	F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.3.2 Responses with arguments-2/cmake-build-debug/_deps/zlib-subbuild/CMakeFiles/zlib-populate-complete	cb04eaf30903429a
+5840	5917	6957196692249940	F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.3.2 Responses with arguments-2/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	cb04eaf30903429a
